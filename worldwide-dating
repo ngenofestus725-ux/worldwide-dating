@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Worldwide Dating connects serious singles around the world and helps people build genuine, committed relationships.">
+  <title>Worldwide Dating | Connecting Serious Singles Worldwide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero-banner">
+    <div class="banner-copy">
+      <p class="eyebrow">CONNECTING SERIOUS<br>SINGLES WORLDWIDE</p>
+      <h1>Helping you find real,<br>committed love.</h1>
+      <div class="heart-line">♡</div>
+      <p class="socials">
+        <a href="#" aria-label="Instagram">◎ &nbsp; WORLDWIDEDATING</a>
+        <a href="#" aria-label="TikTok">♪ &nbsp; WORLDWIDEDATING</a>
+      </p>
+    </div>
+    <div class="hero-portrait" role="img" aria-label="Decorative portrait illustration"></div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <div class="intro-top">
+        <h2>WORLDWIDE<br class="mobile-break"> DATING</h2>
+        <div class="social-icons">
+          <a href="#" aria-label="Instagram">◎</a>
+          <a href="#" aria-label="TikTok">♪</a>
+        </div>
+      </div>
+      <p class="tagline">Worldwide Dating 💖 Connecting serious singles worldwide. Helping you find real, committed love.</p>
+    </section>
+
+    <section class="service-card">
+      <div class="promo-art community-art">
+        <span class="mini-brand">WORLDWIDE <small>Dating</small></span>
+        <div class="art-title">SINGLES<br><em>DATING</em><br><strong>Community♡</strong></div>
+        <div class="art-person"></div>
+        <span class="art-caption">Real people. Real connections. Real love.</span>
+      </div>
+      <div class="service-copy">
+        <h3>Singles Community</h3>
+        <p>Join a supportive community of singles ready to connect, meet and find genuine love.</p>
+        <div class="price">€15</div>
+        <a class="action" href="#join">JOIN NOW <span>→</span></a>
+      </div>
+    </section>
+
+    <section class="service-card reverse">
+      <div class="promo-art booking-art">
+        <span class="mini-brand">WORLDWIDE <small>Dating</small></span>
+        <div class="art-title">PRIVATE<br><em>Matchmaking</em></div>
+        <div class="art-person"></div>
+        <span class="art-caption">YOUR NEXT CHAPTER STARTS HERE</span>
+      </div>
+      <div class="service-copy">
+        <h3>Book Private Matchmaking</h3>
+        <p>Personalized one-on-one matchmaking for singles ready for a serious connection.</p>
+        <div class="price">€200 <del>€250</del></div>
+        <a class="action" href="#booking">Book One on One <span>→</span></a>
+      </div>
+    </section>
+
+    <section class="how-it-works">
+      <p class="eyebrow">A MORE PERSONAL WAY TO CONNECT</p>
+      <h2>Your next chapter starts with a conversation.</h2>
+      <div class="steps">
+        <div>
+          <b>01</b>
+          <h4>Tell us about you</h4>
+          <p>Share your values, relationship goals and the kind of partner you hope to meet.</p>
+        </div>
+        <div>
+          <b>02</b>
+          <h4>Find your path</h4>
+          <p>Choose the community or private matchmaking service that suits your needs.</p>
+        </div>
+        <div>
+          <b>03</b>
+          <h4>Build a genuine connection</h4>
+          <p>Take your time, communicate honestly and get to know each other respectfully.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact-panel" id="join">
+      <div>
+        <p class="eyebrow">READY TO MEET SOMEONE SPECIAL?</p>
+        <h2>Join the Singles Community</h2>
+        <p>Contact our team to ask about membership, the community and next steps.</p>
+      </div>
+      <a class="action dark-action" href="mailto:contact@worldwidedating.example?subject=Singles%20Community%20Membership">Ask to Join →</a>
+    </section>
+
+    <section class="contact-panel booking-panel" id="booking">
+      <div>
+        <p class="eyebrow">PRIVATE MATCHMAKING</p>
+        <h2>Book a One-on-One Session</h2>
+        <p>Tell us about your relationship goals and confirm availability before paying.</p>
+      </div>
+      <a class="action dark-action" href="mailto:contact@worldwidedating.example?subject=Private%20Matchmaking%20Booking">Enquire About Booking →</a>
+    </section>
+
+    <section class="safety">
+      <h3>Honesty, respect and privacy matter.</h3>
+      <p>Take time to verify people you meet online. Never send money to someone you have not met or independently verified. Confirm service details, prices and payment arrangements directly before making a payment.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-brand">
+      WORLDWIDE DATING
+      <span>Connecting serious singles worldwide</span>
+    </div>
+    <p>Helping you find real, committed love 💖</p>
+    <div class="footer-social">
+      <a href="#">Instagram</a>
+      <a href="#">TikTok</a>
+    </div>
+    <small>© <span id="year"></span> Worldwide Dating. Replace sample email and social links before publishing.</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
